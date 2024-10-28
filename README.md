@@ -47,21 +47,21 @@ Implementing the Green Token as incentives for the sellers and buyers to partici
 ## Technical Details:
 EcoReward is currently deployed on the Base Testnet. This testnet ensures that the platform’s blockchain-based transactions and token rewards system are secure and functional.
 
-`EcoToken  deployed to 0x17983011E9187Fb16695A29be44F9EC8Dc55d6dE `
+`EcoToken  deployed to 0x38b0917178b0C07bEAAf9c6255Ad97C1c9D984EE `
 
-`EcoReward  deployed to 0xb05D3bd6F5758DCCAe79C3c7a8701F6419147C5A `
+`EcoReward  deployed to 0xF2837cD516f35686cBfD91B8A523abE6216DdE52 `
 
-`Transaction : https://sepolia.basescan.org/address/0x0DE4F4E33462AC6B464E85dE6427b46a1405c221`
+`Transaction : https://testnet.aiascan.com/address/0xF2837cD516f35686cBfD91B8A523abE6216DdE52?tab=contract`
 
 These deployments provide the foundation for secure, transparent transactions within the decentralized marketplace.
 
 ## Demo and MVP:
 
-`MVP: https://ecorewards-based.vercel.app/ `
+`MVP: `
 
 
-`Demo Video: https://youtu.be/k_TDfmiJVe8`
+`Demo Video: `
 
-`Repo:  https://github.com/pheobeayo/ecorewards-based `
+`Repo:   `
 
 Pitch Slide: https://www.canva.com/design/DAGRaEgPm2k/hk0FTDd_3MauN9KbeRwBJw/view?utm_content=DAGRaEgPm2k&utm_campaign=designshare&utm_medium=link&utm_source=editor
