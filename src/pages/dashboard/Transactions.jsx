@@ -119,7 +119,7 @@ const Transactions = () => {
                 <div>
                   <img src={userPurchase.image} alt="" className="w-[300px] h-[300px] mb-4" />
                   <p><strong>Product Name:</strong> {userPurchase.name}</p>
-                  <p className='flex justify-between my-4 font-bold'>Price <span>{formatUnits(userPurchase.price)}ETH</span> </p>
+                  <p className='flex justify-between my-4 font-bold'>Price <span>{formatUnits(userPurchase.price)}AIA</span> </p>
                 </div>
               ) : (
                 <p>Product details not available.</p>
@@ -148,7 +148,7 @@ const Transactions = () => {
               {userApproval ? (
                 <div>
                   <img src={userApproval.image} alt="" className="w-[300px] h-[300px] mb-4" />
-                  <p className='flex justify-between my-4 font-bold'>Price <span>{formatUnits(userApproval.price)}ETH</span> </p>
+                  <p className='flex justify-between my-4 font-bold'>Price <span>{formatUnits(userApproval.price)}AIA</span> </p>
                 </div>
               ) : (
                 <p>Product details not available.</p>
