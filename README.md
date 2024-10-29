@@ -45,7 +45,7 @@ Mobile App development.
 Implementing the Green Token as incentives for the sellers and buyers to participate in GreenHouse Gas reduction.
 
 ## Technical Details:
-EcoReward is currently deployed on the Base Testnet. This testnet ensures that the platform’s blockchain-based transactions and token rewards system are secure and functional.
+EcoReward is currently deployed on the AIA Testnet. This testnet ensures that the platform’s blockchain-based transactions and token rewards system are secure and functional.
 
 `EcoToken  deployed to 0x38b0917178b0C07bEAAf9c6255Ad97C1c9D984EE `
 
@@ -57,11 +57,11 @@ These deployments provide the foundation for secure, transparent transactions wi
 
 ## Demo and MVP:
 
-`MVP: `
+`MVP: https://ecorewards-aia.vercel.app/`
 
 
 `Demo Video: `
 
-`Repo:   `
+`Repo: https://github.com/pheobeayo/ecorewards-aia  `
 
 Pitch Slide: https://www.canva.com/design/DAGRaEgPm2k/hk0FTDd_3MauN9KbeRwBJw/view?utm_content=DAGRaEgPm2k&utm_campaign=designshare&utm_medium=link&utm_source=editor
